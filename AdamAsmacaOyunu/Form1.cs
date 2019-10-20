@@ -234,7 +234,6 @@ namespace AdamAsmacaOyunu
 
                 }
 
-
                 // Deneme Hakkını indir
 
                 denemeHakkiSayacı(kalanHakki);

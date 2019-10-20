@@ -10,6 +10,7 @@ namespace AdamAsmacaOyunu
     {
         string ad;
         int puan;
+        public static List<SkorTablosu> skorTablo = new List<SkorTablosu>();
 
         public SkorTablosu(string ad, int puan)
         {

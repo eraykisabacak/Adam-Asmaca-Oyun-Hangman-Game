@@ -79,9 +79,8 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox adiniz;
         private System.Windows.Forms.Label lbl_Ad;
         private System.Windows.Forms.Button gonder;
+        public System.Windows.Forms.TextBox adiniz;
     }
 }

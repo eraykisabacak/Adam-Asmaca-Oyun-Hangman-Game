@@ -16,3 +16,5 @@ Eray|12
 test20|10
 jshod|10
 PoKe|3
+puansıfır|0
+tet21|-2
