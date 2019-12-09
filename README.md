@@ -33,11 +33,11 @@ görüntülenebilmelidir
 
 # Start
 
-![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/adamasmaca1.png)
+![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/blob/master/adamasmaca1.png)
 
 # Oyun Görüntüsü
 
-![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/adamasmaca2.png)
+![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/blob/master/adamasmaca2.png)
 
 Hangman Game
 
