@@ -31,6 +31,14 @@ görüntülenebilmelidir
 
 =============
 
+# Start
+
+![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/adamasmaca1.png)
+
+# Oyun Görüntüsü
+
+![](https://github.com/eraykisabacak/Adam-Asmaca-Oyun-Hangman-Game/adamasmaca2.png)
+
 Hangman Game
 
 ✓ A word game that brings man one step closer to hanging for each unknown letter
